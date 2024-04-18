@@ -1,7 +1,7 @@
-$$
-\begin{align*}
-& \Huge \color {red}{Templates of algorithms in cpp}
-& \Large\color{Yellow}\mathscr{Updating}
 
-\end{align*}
-$$
+\begin{align}
+& \LARGE \color{red}\mathrm{{Templates\ of\ algorithms\ in\ cpp}}\\
+& \LARGE\color{blue}\mathscr{Updating}
+
+\end{align}
+
