@@ -1,2 +1,4 @@
-### Algorithms_in_cpp
-#Templates of Algorithms in CPP
+$$
+& \Huge \color {red}{Templates of algorithms in cpp}
+& \Large\color{Yellow}\mathscr{Updating}
+$$
